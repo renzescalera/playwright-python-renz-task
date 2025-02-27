@@ -4,6 +4,10 @@
 
 - Furthermore, these approaches are the best practice for code reusability and separating test data and test logic.
 
+## About this repository
+
+- As a Quality Engineer with a strong background in JavaScript-based test automation frameworks like Cypress, I took on the challenge of learning Python and Playwright to expand my skill set. This repository is not just about writing tests or completing the task, it's about adaptability, problem-solving, and continuously improving as a Test Automation Engineer. In addition, by stepping out of my comfort-zone and building this repository from scratch, I’ve gained hands-on experience with Python’s testing ecosystem while reinforcing best practices in test automation. Completing this repository is a milestone in my journey, demonstrating my ability to learn new technologies, apply them effectively, and embrace challenges with curiosity and determination.
+
 ## Folder/Files Structure
 
 1.  **tests**: Contains the spec files or test frameworks built with Playwright using python.
